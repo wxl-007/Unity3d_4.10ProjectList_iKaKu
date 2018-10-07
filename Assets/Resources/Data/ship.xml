@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<name>船1</name>
+		<icon>icon000</icon>
+		<description>测试船1</description>
+		<moveSpeed>40</moveSpeed>
+		<mainWeaponId>1</mainWeaponId>
+		<auxiliaryWeaponId>2</auxiliaryWeaponId>
+		<level>1</level>
+		<range>300</range>
+		<type>1</type>
+		<healthVolume>300</healthVolume>
+		<defense>40</defense>
+	</item>
+	<item>
+		<id>2</id>
+		<name>船3</name>
+		<icon>icon000</icon>
+		<description>测试船3</description>
+		<moveSpeed>10</moveSpeed>
+		<mainWeaponId>1</mainWeaponId>
+		<auxiliaryWeaponId>2</auxiliaryWeaponId>
+		<level>1</level>
+		<range>10</range>
+		<type>1</type>
+		<healthVolume>100</healthVolume>
+		<defense>20</defense>
+	</item>
+</root>

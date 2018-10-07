@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<item>
+		<id>1</id>
+		<name>火炮1</name>
+		<icon>icon000</icon>
+		<description>测试火炮1</description>
+		<interval>3</interval>
+		<deviation>0.8</deviation>
+		<caliber>5.4</caliber>
+	</item>
+	<item>
+		<id>2</id>
+		<name>火炮2</name>
+		<icon>icon000</icon>
+		<description>测试火炮2</description>
+		<interval>2</interval>
+		<deviation>0.5</deviation>
+		<caliber>6.2</caliber>
+	</item>
+</root>

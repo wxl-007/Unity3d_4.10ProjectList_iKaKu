@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Configration>
+    <Connnection>
+      <!--
+			122.11.35.200
+			192.168.1.60
+			192.168.1.29
+			192.168.1.8
+			192.168.1.161
+			210.73.221.75
+      60.207.196.58
+      210.73.221.75
+			192.168.2.27:8080
+			192.168.1.185:9091
+			-->
+      <LoginServerURL>http://192.168.2.27:8080/LoginServer/</LoginServerURL>
+      <FileServerURL>http://210.73.221.75/</FileServerURL>
+      <LoginInterface>handleLogin</LoginInterface>
+      <RegistInterface>handleRegister</RegistInterface>
+    </Connnection>
+    <System_Settings>
+      <FontSize>
+        <VeryBig>36</VeryBig>
+        <Big>34</Big>
+        <Normal>30</Normal>
+        <Small>26</Small>
+        <VerySmall>24</VerySmall>
+      </FontSize>
+      <Mute>0</Mute>
+      <Language>chs</Language>
+    </System_Settings>
+  </Configration>
+</root>
